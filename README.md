@@ -1,11 +1,11 @@
-### Hi there, I'm Samyak - aka [Acoder n Anntrepreneur][website] 👋
+### Hi there, I'm Samyak - aka [Acoder n AnEntrepreneur][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)]()
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/samyakkumar17)
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Student, Entrepreneur, Developer, and Coder!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🔭 I just launched my first Startup: [MycarBuddy(Door step car wash service in Jodhpur][https://mycarbuddy.in/]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
