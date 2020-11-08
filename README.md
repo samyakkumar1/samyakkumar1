@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)]()
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/samyakkumar17)
 
-## I'm a IITian, Entrepreneur, Developer, and Gamer!!
+## About ME IITian, Entrepreneur, Developer, and Gamer!!
 
 - 🔭 I just launched my first Startup: [MycarBuddy][https://mycarbuddy.in/]!
 - 🚀 Other startups I am currently working on [Fatyn][https://fatyn.online/] and [Tagbit][https://www.tagbit.co/]
