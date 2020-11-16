@@ -5,7 +5,7 @@
 
 ## About ME IITian, Entrepreneur, Developer, and Gamer!!
 
-- 🔭 I just launched my first Startup: [MycarBuddy][https://mycarbuddy.in/]!
+- 🔭 I just launched my first Startup: [MycarBuddy][MCB]!
 - 🚀 Other startups I am currently working on [Fatyn][https://fatyn.online/] and [Tagbit][https://www.tagbit.co/]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Startups and content creators 
@@ -97,7 +97,7 @@
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 </details>
-
+[MCB]: https://mycarbuddy.in/
 [website]: https://samyakkumar1.github.io/MyportfolioWebsite.github.io/
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/samyakkumar17
