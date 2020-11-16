@@ -98,7 +98,7 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
+[website]: https://samyakkumar1.github.io/MyportfolioWebsite.github.io/
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/samyakkumar17
 [youtube]: https://youtube.com/codeSTACKr
