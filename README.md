@@ -6,7 +6,7 @@
 ## About ME IITian, Entrepreneur, Developer, and Gamer!!
 
 - 🔭 I just launched my first Startup: [MycarBuddy][https://mycarbuddy.in/]!
-- 🔭 my portfolio website: [https://mycarbuddy.in/]!
+- 🔭 my portfolio website: [https://samyakkumar1.github.io/MyportfolioWebsite.github.io/]!
 - 🚀 Other startups I am currently working on [Fatyn][https://fatyn.online/] and [Tagbit][https://www.tagbit.co/]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Startups and content creators 
