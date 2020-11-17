@@ -6,6 +6,7 @@
 ## I'm a Husband, Father, Developer, and Teacher!!
 
 - 🔭 I just launched my first startup: [MyCarBuddy][course]!
+- 🚀 Other startups I am currently working on [MyCarBuddy][course] and [MyCarBuddy][course]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -99,6 +100,8 @@
 
 [website]: https://samyakkumar1.github.io/MyportfolioWebsite.github.io/
 [course]: https://mycarbuddy.in/
+[Fatyn]: https://fatyn.online/
+[Tagbit]: https://www.tagbit.co/
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
