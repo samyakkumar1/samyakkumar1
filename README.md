@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Startups and content creators 
 - 🥅 2020 Goals: To make my ventures successful and Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play Pubg and other Battel Royal Games
+- ⚡ Fun fact: I love to play Pubg and other video games
 
 ### Spotify Playing 🎧
 
